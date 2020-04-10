@@ -1,0 +1,1 @@
+# sCourt_SCAN_NonActiveX_JS-Module
